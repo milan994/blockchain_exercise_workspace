@@ -1,0 +1,3 @@
+[workspace]
+resolver = "2"
+members = ["main_binary", "blockchain_simulator", "blockchain_client_server"]
